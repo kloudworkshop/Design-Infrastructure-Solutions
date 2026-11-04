@@ -31,10 +31,6 @@ The Fabrikam Headquarters operates a small datacenter in a single location. The 
 
 -	Field superintendents use Windows laptops and tablets offline to continuously record building progress and other details.  These changes, such as new work orders, are stored in a local change file .  At the end of each day, superintendents return to the office to connect to the wireless network and run a small script to upload the change file to an FTP server.  A second script is scheduled to run each night to processes all the change files and enter their contents into the Project Management database (Microsoft SQL Server).
 
-The **Home Technology software** is currently provided and hosted by third parties and involves at least three different websites the customer must visit.  It is proposed the software be replaced with an in-house developed and unified solution.
-
-![Diagram of HVAC, Security, and Automation app](media/software.png)
-
 ## Requirements 
 
 **Project Management software**
@@ -45,27 +41,9 @@ The **Home Technology software** is currently provided and hosted by third parti
 
 - Increase the resilience of the project management database. While performance is not an issue, the company would like to avoid losing access to the database in case of a single hardware failure.
 
-**New Home Technology Solution**
-
-- Add a new solution to collect data continuously from the home monitoring sensors.
-  - Database some sensor readings for trend analysis and reporting.
-  - Provide configurable real-time alerting based on owner needs.
-  
-- Design a relational database solution to hold homeowner preferences and settings.
-  - System must be scalable.
-  - Redundancy is critical.
-  
-- The new unified website will be developed in house and hosted on Linux.  This website will be used to view monitors and change preferences for items such as temperature or alert thresholds. Loads can vary widely, and the system must be able to scale quickly.
-
--	Provide users a way to sign into the system without creating another user account and password.
-
-- Implement security controls and provide weekly reports outlining how the company matches up against industry standard best practices.
 
 ## Tasks 
 
-1. Design a solution for the Project Management software. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
+- Design a solution for the Project Management software. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
 
-2. Design an architecture for the New Home Technology Solution. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
-
-How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
 
