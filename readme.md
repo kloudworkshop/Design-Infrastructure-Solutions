@@ -1,6 +1,6 @@
 # AZ-305: Designing Microsoft Azure Infrastructure Solutions
 
-- **[Link to case studies (HTML format)](https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/)**
+- **[Link to case studies (HTML format)](https://kloudworkshop.github.io/Design-Infrastructure-Solutions/)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
 ## Course update - 28 January 2022
