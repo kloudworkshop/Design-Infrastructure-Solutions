@@ -44,6 +44,6 @@ The Fabrikam Headquarters operates a small datacenter in a single location. The 
 
 ## Tasks 
 
-- Design a solution for the Project Management software. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
+-Design a solution for the Project Management software. Be prepared to explain why you chose each component of the design and how it meets the solution requirements.
 
 
