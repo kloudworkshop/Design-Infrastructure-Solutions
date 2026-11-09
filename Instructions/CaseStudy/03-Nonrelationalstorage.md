@@ -39,4 +39,4 @@ Tailwind Traders wants to reduce storage costs by reducing duplicate content and
 
 2.  Your solution should consider the media, marketing literature, and corporate documents. Your recommendations may be different depending on the data. Be prepared to discuss your decisions. 
 
-How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
+
