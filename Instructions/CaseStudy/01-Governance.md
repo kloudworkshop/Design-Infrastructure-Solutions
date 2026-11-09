@@ -20,7 +20,7 @@ Tailwind Traders is planning on making some significant changes to their governa
 
     * What are different ways Tailwind Traders could organize their subscriptions and management groups. Which would be the best to meet their requirements? 
 
-    * Design two alternative hierarchies and explain your decision-making process.
+    * Design two alternative hierarchies.
 
 2. **New development project** 
 
@@ -30,5 +30,5 @@ Tailwind Traders is planning on making some significant changes to their governa
 
     * Propose at least two ways of meeting the requirements. Explain your final decision. 
 
-How are you incorporating the Well Architected Framework pillars to produce a high quality, stable, and efficient cloud architecture?
+
 
